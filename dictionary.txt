@@ -1,0 +1,8 @@
+patient information
+patient demographic
+patient name
+firstname
+lastname
+DOB
+date of birth
+contact
