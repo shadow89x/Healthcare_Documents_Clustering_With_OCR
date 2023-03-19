@@ -2,7 +2,7 @@
 This project aims to solve the problem of clustering large volumes of healthcare-related documents. The project uses OCR technology to extract text from PDFs, and then applies machine learning techniques to cluster similar documents together.
 
 # Important Note
-Please be aware that this project includes dummy data that was created by the author solely for testing purposes. None of the information in these samples is associated with real individuals and may include fictitious details such as phone numbers and dates of birth.
+Please be aware that this project includes dummy data that was created by the author solely for testing & demonstration purposes. None of the information in these samples is associated with real individuals and may include fictitious details such as phone numbers and dates of birth.
 
 # Features
 
