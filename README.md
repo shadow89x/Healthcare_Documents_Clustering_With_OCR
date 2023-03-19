@@ -1,4 +1,4 @@
-# Healthcare_Documents_Clustering_With_OCR
+# Healthcare_Documents_Clustering_With_Pytesseract_OCR
 This project aims to solve the problem of clustering large volumes of healthcare-related documents. The project uses OCR technology to extract text from PDFs, and then applies machine learning techniques to cluster similar documents together.
 
 # Important Note
